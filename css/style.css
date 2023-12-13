@@ -373,7 +373,7 @@ a.dropdown-item {
 }
 
 .revolution-img {
-  max-width: 500px;
+  max-width: 90%;
   width: 100%;
 }
 
@@ -840,7 +840,7 @@ footer {
   }
 
   .revolution-img {
-    max-width: 300px;
+    max-width: 90%;
   }
 
   .counter .revolution-card h3 {
@@ -905,7 +905,7 @@ footer {
   }
 
   .revolution-img {
-    height: 300px;
+    height: 90%;
     object-fit: contain;
   }
 
@@ -1029,7 +1029,7 @@ footer {
   }
 
   .revolution-img {
-    max-width: 300px;
+    max-width: 90%;
     width: 100%;
   }
 
